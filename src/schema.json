@@ -28,5 +28,5 @@
       "type": "integer"
     }
   },
-  "required": ["name"]
+  "required": ["name", "description"]
 }
